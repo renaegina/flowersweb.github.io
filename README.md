@@ -1,6 +1,7 @@
 # Flower Sales Website
 
 <p align="center"><img src="img/Output.png" alt="Website"></a></p>
+
 ## Features
 
 - Home
